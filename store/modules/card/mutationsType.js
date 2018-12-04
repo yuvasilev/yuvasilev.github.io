@@ -1,0 +1,4 @@
+export const ADD_TO_CARD = 'ADD_TO_CARD'
+export const REMOVE_FROM_CARD = 'REMOVE_FROM_CARD'
+export const SET_CARD_ITEMS = 'SET_CARD_ITEMS'
+export const REDUCE_COUNT = 'REDUCE_COUNT'
