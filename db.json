@@ -1,0 +1,124 @@
+{
+  "catalog": [
+	  {
+		"id": 0,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Amtas",
+		"price": 377
+	  },
+	  {
+		"id": 1,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Cosmosis",
+		"price": 7122
+	  },
+	  {
+		"id": 2,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Papricut",
+		"price": 9642
+	  },
+	  {
+		"id": 3,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Aquazure",
+		"price": 7972
+	  },
+	  {
+		"id": 4,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Enquility",
+		"price": 2176
+	  },
+	  {
+		"id": 5,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Essensia",
+		"price": 4899
+	  },
+	  {
+		"id": 6,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Isosure",
+		"price": 6477
+	  },
+	  {
+		"id": 7,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Fiberox",
+		"price": 4974
+	  },
+	  {
+		"id": 8,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Reversus",
+		"price": 8511
+	  },
+	  {
+		"id": 9,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Qualitern",
+		"price": 4552
+	  },
+	  {
+		"id": 10,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Makingway",
+		"price": 8170
+	  },
+	  {
+		"id": 11,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Quadeebo",
+		"price": 922
+	  },
+	  {
+		"id": 12,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Savvy",
+		"price": 8586
+	  },
+	  {
+		"id": 13,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Idealis",
+		"price": 5493
+	  },
+	  {
+		"id": 14,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Daisu",
+		"price": 9762
+	  },
+	  {
+		"id": 15,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Gushkool",
+		"price": 784
+	  },
+	  {
+		"id": 16,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Orbean",
+		"price": 3986
+	  },
+	  {
+		"id": 17,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Emtrac",
+		"price": 3922
+	  },
+	  {
+		"id": 18,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Halap",
+		"price": 2295
+	  },
+	  {
+		"id": 19,
+		"picture": "https://via.placeholder.com/150",
+		"name": "Insuron",
+		"price": 2779
+	  }
+  ]
+}
